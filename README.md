@@ -32,7 +32,11 @@ Coherent demodulation (multiply by synchronized carrier)
 Low-pass filter to recover message
 
 Tabulation:
+<img width="1280" height="837" alt="image" src="https://github.com/user-attachments/assets/8f2cf3ea-18e4-4e58-af22-297180b73e1a" />
+
 
 Output:
+<img width="630" height="469" alt="EXP8" src="https://github.com/user-attachments/assets/c02eb87a-1913-4d23-b93f-1ef6c2057432" />
 
 Result:
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/e7098bad-4553-4108-b9ee-a29bcac92b4e" />
